@@ -1,0 +1,2 @@
+# RemoveWatermark
+去除PDF中的水印，前提是水印的颜色与PDF的其它所有颜色都不一样
