@@ -11,6 +11,8 @@
 
 4. 手动将图片集合成为新的PDF文件
 
+Requirements:
+
 Python=3.8
 
 pip install fitz
